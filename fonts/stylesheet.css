@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'belwe';
+    src: url('Belwe Bold-webfont.eot');
+    src: url('Belwe Bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Belwe Bold-webfont.woff2') format('woff2'),
+         url('Belwe Bold-webfont.woff') format('woff'),
+         url('Belwe Bold-webfont.ttf') format('truetype'),
+         url('Belwe Bold-webfont.svg#belwebold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}

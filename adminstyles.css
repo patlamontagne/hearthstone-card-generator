@@ -1,0 +1,79 @@
+* {
+			padding: 0;
+			margin: 0;
+		}
+		body>h1:first-of-type {
+			margin: 16px 0;
+			text-align: center;
+			color : #ddd;
+			text-transform: uppercase;
+			font: normal 1.8em 'Lato';
+		}
+		a {
+			text-decoration: none;
+		}
+		#main {
+			width: 480px;
+			min-height: 450px;
+			margin: 20px auto;
+			padding-top : 28px;
+			padding-bottom : 18px;
+			background: #e6e6e6;
+			text-align: center;
+			border: 2px solid #ddd;
+			font-size: .9em;
+			position: relative;
+		}
+		#section {
+			position: relative;
+			text-align: left;
+			width: 300px;
+			padding: 18px 35px;
+			margin: 24px auto;
+			background: #f6f6f6;
+			border: 2px solid #ccc;
+			border-radius: 20px;
+			box-shadow: 4px 4px 4px #d5d5d5;
+		}
+		#section h2 {
+			text-align: left;
+			margin: 4px 0;
+			font: normal 3.2em 'Lato';
+			color : #666;
+		}
+		h3 {
+			text-align: center;
+			font: normal 1.4em 'Lato', Arial;
+			color : #666;
+		}#admin {
+	width: 300px;
+	margin: 10px auto;
+	text-align: center;
+	}
+	form {
+		width: 280px;
+		padding-top: 10px;
+		margin: 0 auto;
+		font-size:0.9em;
+		color:#000;
+		text-align:left;
+		font-family: Myriad Pro, sans-serif;
+	}
+	input[type="text"], input[type="password"] {
+		height:23px;
+		margin-bottom:10px;
+		display:inline-block;
+		border: 1px solid #aaa;
+		width: 280px;
+	}
+	input[type="submit"]{
+		cursor:pointer;
+		width:120px;
+		height: 24px;
+		background-color:#33CCFF;
+		color:#FFF;
+		padding:5px 10px;
+		border:none;
+		margin-top: 4px;
+		margin-right: 12px;
+	}
